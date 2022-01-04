@@ -1,4 +1,6 @@
 public class Student {
+
+    // this is the student class so that we may test commmit
         private static int id =  10;
      private String name;
      private  String SSN;
